@@ -7,3 +7,5 @@ Finite element mesh pre-processing, including generation of adaptively sized mes
 brep ——> 3D slicer ——> centerline.vtp
 
 brep + centerline    ___gmsh___    adaptive.cpp ——> adaptive.msh(3D or 2D(2D edges need to be classified))
+
+defined the input and output surfaces and fluid domain(which should be done manually)
