@@ -3,3 +3,5 @@ Finite element mesh pre-processing, including generation of adaptively sized mes
 
 
 \\10.16.2.199\M3C-Lab\LiuJ\osmsc_repository\adams_modified_models\0149_1001
+
+brep ——》 3D slicer ——》 centerline.vtp
