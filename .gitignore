@@ -1,6 +1,8 @@
 build
 .stl
-.vtk
+.vt*
 .pos
 example/*.msh*
 example/*.stl
+example/*.vt*
+example/t1.geo
