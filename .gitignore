@@ -2,3 +2,5 @@ build
 .stl
 .vtk
 .pos
+example/*.msh*
+example/*.stl
